@@ -1,0 +1,7 @@
+#include "GameResources.h"
+
+// --------------------------------------
+// Icons
+// --------------------------------------
+IDI_MyWindowIcon	ICON	"KnightSprite.ico"
+IDC_GUNSIGHT		CURSOR	"Gun.cur"
